@@ -50,6 +50,7 @@ export class SubmitFeedbackService {
         <div style="font-family: sans-serif; font-size: 16px;">
         <p>Tipo do feedback: ${type}</p>
         <p>Comentário: ${comment}</p>
+        <img src="${screenshot}" alt="screenshot" />
         </div>
       `
     })

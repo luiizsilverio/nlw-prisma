@@ -11,7 +11,12 @@
   "keywords": [
     "nlw",
     "rocketseat",
-    "nodejs"
+    "nodejs",
+    "jest",
+    "prisma",
+    "nodemailer",
+    "mailtrap",
+    "SOLID"
   ],
   "author": "Luiz Oliveira <luiiz.silverio@gmail.com>",
   "license": "MIT",
