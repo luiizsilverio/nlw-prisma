@@ -2,11 +2,12 @@
   "name": "nlw-server",
   "version": "1.0.0",
   "description": "API desenvolvida durante o NLW Return",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "dev": "ts-node-dev src/server.ts",
-    "build": "tsc"
+    "build": "npx tsc",
+    "start": "node dist/server.js"
   },
   "keywords": [
     "nlw",
